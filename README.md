@@ -16,6 +16,6 @@ The base of this stems from how I wanted to improve my skills in coding, and be 
 So behold the first of many repos to come about my progress and improvement. If anyone who sees this has any tips, ideas or comments, just lemme know, all feedback is much appreciated.
 
 ## How to run
-git clone https://github.com/kaizokuv/RandomCafeSystem.git
-cd RandomCafeSystem
-python3 main.py
+- git clone https://github.com/kaizokuv/RandomCafeSystem.git
+- cd RandomCafeSystem
+- python3 main.py
